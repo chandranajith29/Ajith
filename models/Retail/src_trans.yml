@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: trans
+    database: RETAIL
+    schema: PUBLIC
+    tables:
+      - name: STAGING_TRANSACTIONS
